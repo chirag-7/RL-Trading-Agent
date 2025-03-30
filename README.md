@@ -19,7 +19,7 @@ This project explores whether a reinforcement learning (RL) agent can outperform
 
 | Asset      | RL Agent ROI | Buy & Hold ROI | Best Hardcoded ROI |
 |------------|--------------|----------------|---------------------|
-| Apple      | **587.88%**  | 578.28%        | ~1.2%               |
+| Apple      | 587.88%  | 578.28%        | ~1.2%               |
 | S&P 500    | -4.73%       | -16.76%        | < 1%                |
 | Reliance   | 459.23%      | 465.99%        | Mostly negligible   |
 
@@ -29,7 +29,7 @@ This project explores whether a reinforcement learning (RL) agent can outperform
 
 ## 📚 How to Run
 
-Open the `RL.ipynb` notebook and follow the sections inside to:
+Open the `Project_RL.ipynb` notebook and follow the sections inside to:
 - Prepare and normalize the datasets.
 - Run rule-based trading strategies.
 - Train the DQN + LSTM agent.
